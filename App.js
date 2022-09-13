@@ -45,7 +45,7 @@ card: {
 
 inside: {
   height: '100%',
-  width: '50%',
+  width: '0%',
   position: 'absolute',
   // left: '50.1%'
  
@@ -70,12 +70,12 @@ txt:{
   fontFamily: 'Nimbus Sans Ultra light',
   fontSize: '25px',
   height: '11vh',
-  letterSpacing: '9px',
+  letterSpacing: '3px',
   fontWeight: 'bold 300',
   
   textTransform: 'capitalize ',
   color: '#2274A5',
-  padding: '15px',
+  padding: '5px',
   color: 'rgba(0,0,0, 0.5)',
   
  
@@ -85,9 +85,7 @@ image:{
   height: '87vh',
   width: '100%',
   
-  // marginLeft: "30px",
-  // marginRight: "30px",
-  // marginTop: '10px'
+  
   margin: '0 auto'
 }
 
